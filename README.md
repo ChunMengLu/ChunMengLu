@@ -10,7 +10,3 @@
 - 掘金主页：https://juejin.im/user/1591748566975837
 - 知乎专栏：https://zhuanlan.zhihu.com/c_1233105029428453376
 - 开源中国：https://my.oschina.net/qq596392912
-
-## :green_heart: 𝗦𝘁𝗮𝘁𝘀
-
-![github stats](https://github-readme-stats.vercel.app/api?username=ChunMengLu&show_icons=true&theme=dracula)
