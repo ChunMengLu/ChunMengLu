@@ -7,6 +7,6 @@
 
 - 官方网站：https://www.dreamlu.net
 - gitee：https://gitee.com/596392912
-- 掘金主页：https://juejin.im/user/1591748566975837
+- 掘金专栏：https://juejin.cn/column/6961646838025814029
 - 知乎专栏：https://zhuanlan.zhihu.com/c_1233105029428453376
 - 开源中国：https://my.oschina.net/qq596392912
