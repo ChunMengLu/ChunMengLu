@@ -10,3 +10,6 @@
 - 掘金专栏：https://juejin.cn/column/6961646838025814029
 - 知乎专栏：https://zhuanlan.zhihu.com/c_1233105029428453376
 - 开源中国：https://my.oschina.net/qq596392912
+
+## :page_facing_up: 公众号
+![公众号](https://raw.githubusercontent.com/lets-mica/mica/master/docs/img/dreamlu-weixin.jpg)
